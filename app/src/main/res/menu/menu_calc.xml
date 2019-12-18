@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.dev.mffa.mynote.View.MainActivity" >
+
+    <item android:id="@+id/calculator"
+        android:title="Calculator"
+        android:orderInCategory="100"
+        android:icon="@drawable/calculator"
+        app:showAsAction="always" />
+
+</menu>

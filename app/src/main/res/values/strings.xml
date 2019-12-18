@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Hi Note</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_title_home">Notes</string>
+    <string name="msg_no_notes">No notes found</string>
+    <string name="lbl_new_note_title">New Note</string>
+    <string name="lbl_edit_note_title">Edit Note</string>
+    <string name="hint_enter_note">Enter your note!</string>
+    <string name="edit_msg">Masukan Pesan</string>
+    <string name="btn_send">Kirim</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="about">application for storing notes, such as text, images, and audio.\n\n
+- features in the application :\n
+- enter notes in the form of text\n
+- enter a note in the form of audio\n
+- entering notes in the form of images\n
+- add favorite\n
+- check the note\n
+- timeline of calendar notes\n
+- random bakground color notes\n
+- animation actvity\n
+- etc.\n\n
+Thank you for the third party library, and I hope you can enjoy this. don\'t forget to give five stars and comment on the playstore\n\n
+    -*-follow me on Instagram @mufti_nurul_azmi-*-</string>
+    <string name="donate">if you are happy with this application and according to you this application is useful please donate to my paypal muftinurulazmi@gmail.com no matter how many donations I hope God bless you.\n\n
+Thank you very much</string>
+</resources>

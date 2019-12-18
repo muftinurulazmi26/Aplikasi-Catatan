@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <FrameLayout
+        android:id="@+id/containFrame"
+        android:layout_below="@+id/appBar"
+        android:layout_above="@+id/spaceNV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></FrameLayout>
+
+    <com.luseen.spacenavigation.SpaceNavigationView
+        android:id="@+id/spaceNV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        app:centre_button_icon="@drawable/ic_add_white_24dp"
+        app:layout_behavior="com.dev.mffa.mynote.Lib.SpaceNavigationViewBehavior"/>
+
+</android.support.design.widget.CoordinatorLayout>
